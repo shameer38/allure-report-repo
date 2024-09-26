@@ -1,0 +1,1 @@
+Invalid login with wrong password and wrong username - Test passed!
