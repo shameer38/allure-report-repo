@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","23599","test_valid_login","","Sat Sep 28 13:17:14 PKT 2024","passed","Sat Sep 28 13:17:38 PKT 2024","","manual_login_pytest","",""
+"","93682","test_login_with_wrong_username_and_password","","Sat Sep 28 13:21:16 PKT 2024","passed","Sat Sep 28 13:22:50 PKT 2024","","manual_login_pytest","",""
+"","94887","test_login_with_wrong_username","","Sat Sep 28 13:19:30 PKT 2024","broken","Sat Sep 28 13:21:05 PKT 2024","","manual_login_pytest","",""
+"","85136","test_login_with_wrong_password","","Sat Sep 28 13:17:53 PKT 2024","broken","Sat Sep 28 13:19:18 PKT 2024","","manual_login_pytest","",""
